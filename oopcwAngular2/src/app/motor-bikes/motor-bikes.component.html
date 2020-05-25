@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+    <p></p>
+    <div class="container">
+        <div class="row">
+          <div class="col-sm">
+              <label>Filter By Make</label>
+              <select  class="form-control"  (change)="filterBikes($event.target.value)">
+                  <option value="default">Choose Make</option>
+                      <option *ngFor="let make of makes" value="{{make}}">{{make}}</option>
+                    </select>
+          </div>
+          <div class="col-sm">
+            <label>Pickup Date</label>
+              <input type="date" class="form-control" [ngModel] ="pickupDate | date:'yyyy-MM-dd'" (ngModelChange)="pickupDate = $event">
+              <label>Dropoff Date</label>
+              <input type="date" class="form-control" [ngModel] ="dropoffDate | date:'yyyy-MM-dd'" (ngModelChange)="dropoffDate = $event">
+          </div>
+          <div class="col-sm">
+              <div class="row">  
+                <label> Availability and Bookings</label> 
+              </div>
+              <div class="row">  
+                  <div class="col">
+                  
+              <input type="button" class="btn btn-primary" value="Check Availability" (click)="checkAvailability()" >
+           </div>
+           <div class="col">
+            
+            
+                
+              <button class="btn btn-primary" (click)="bookRide()">Book the Ride</button>
+            </div> 
+           </div>
+          </div>
+        </div>
+      </div>
+<h2>MotorBike List</h2>
+
+<table>
+  <tr>
+    <th>Plate Number</th>
+    <th>Make</th>
+    <th>rate</th>
+    <th>model</th>
+    <th>fuelType</th>
+    <th>bikeType</th>
+    <th>startType</th>
+    <th>select</th>
+
+  </tr>
+  <tr *ngFor="let motorBike of motorBikes">
+    <td> {{motorBike.plateNumber}}</td>
+    <td>{{motorBike.make}}</td>
+    <td>{{motorBike.rate}}</td>
+    <td>{{motorBike.model}}</td>
+    <td>{{motorBike.fuelType}}</td>
+    <td>{{motorBike.bikeType}}</td>
+    <td>{{motorBike.startType}}</td>
+    <td><input type="radio" name="book" value="{{motorBike.plateNumber}}" [checked]="true" 
+      [ngModel] ="plateNumber" (ngModelChange)="plateNumber = $event"></td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
+

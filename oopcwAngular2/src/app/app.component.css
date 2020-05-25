@@ -1,0 +1,15 @@
+body {
+    
+    background: url('../assets/333.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    min-height: 100vh;
+    height: auto;
+  }
+
+  html {
+    min-height: 100vh;
+    height: auto;
+}

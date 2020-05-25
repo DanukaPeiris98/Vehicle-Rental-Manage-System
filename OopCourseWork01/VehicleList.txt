@@ -1,0 +1,289 @@
+*********************************
+ plate number :AAA1212  make :Yamaha  model  :fz  bikeType :Scooty  startType :key
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :Dictra  make :VCola  model  :V34  bikeType :Apache  startType :push
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+ plate number :PL5555  make :Yamaha  model  :cv3  bikeType :CBR  startType :Auto
+ plate number :WP1256  make :Bajaj  model  :Duo  bikeType :Scooty  startType :push
+
+ plate number :540306  make :Toyota  model  :LiteAce numberOfAirbags :1  Car Colour  :oil
+ plate number :DD1354  make :Ferrari  model  :coupe numberOfAirbags :9  Car Colour  :Oil
+ plate number :DE2425  make :Audi  model  :A7 numberOfAirbags :5  Car Colour  :oil
+ plate number :EW2121  make :Mazda  model  :c1z numberOfAirbags :5  Car Colour  :Oil
+ plate number :JS1111  make :Mitshubhishi  model  :Lancer numberOfAirbags :5  Car Colour  :Black
+ plate number :JS6353  make :Toyota  model  :LiteAce numberOfAirbags :1  Car Colour  :Red
+ plate number :KM8501  make :Audi  model  :Q9 numberOfAirbags :6  Car Colour  :Maroon
+ plate number :KP9098  make :Fiat  model  :F23 numberOfAirbags :8  Car Colour  :WineRed
+ plate number :KR8501  make :KIA  model  :Sorento numberOfAirbags :4  Car Colour  :Purplr
+ plate number :LK5656  make :Hundai  model  :sonata numberOfAirbags :5  Car Colour  :White
+ plate number :PO9090  make :Benz  model  :SClass numberOfAirbags :4  Car Colour  :Brown
+ plate number :QR3333  make :NIssan  model  :Aqua numberOfAirbags :4  Car Colour  :Red
+
+*******************************************************************************
+ plate number :AAA1212  make :Yamaha  model  :fz  bikeType :Scooty  startType :key
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :Dictra  make :VCola  model  :V34  bikeType :Apache  startType :push
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+ plate number :PL5555  make :Yamaha  model  :cv3  bikeType :CBR  startType :Auto
+ plate number :WP1256  make :Bajaj  model  :Duo  bikeType :Scooty  startType :push
+
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :LiteAce numberOfAirbags :1  Car Colour  :oil
+ plate number :DD1354  make :Ferrari  model  :coupe numberOfAirbags :9  Car Colour  :Oil
+ plate number :EW2121  make :Mazda  model  :c1z numberOfAirbags :5  Car Colour  :Oil
+ plate number :JS1111  make :Mitshubhishi  model  :Lancer numberOfAirbags :5  Car Colour  :Black
+ plate number :JS6353  make :Toyota  model  :LiteAce numberOfAirbags :1  Car Colour  :Red
+ plate number :KM8501  make :Audi  model  :Q9 numberOfAirbags :6  Car Colour  :Maroon
+ plate number :KP9098  make :Fiat  model  :F23 numberOfAirbags :8  Car Colour  :WineRed
+ plate number :KR8501  make :KIA  model  :Sorento numberOfAirbags :4  Car Colour  :Purplr
+ plate number :LK5656  make :Hundai  model  :sonata numberOfAirbags :5  Car Colour  :White
+ plate number :PO9090  make :Benz  model  :SClass numberOfAirbags :4  Car Colour  :Brown
+ plate number :QR3333  make :NIssan  model  :Aqua numberOfAirbags :4  Car Colour  :Red
+
+ plate number :AAA1212  make :Yamaha  model  :fz  bikeType :Scooty  startType :key
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :Dictra  make :VCola  model  :V34  bikeType :Apache  startType :push
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+ plate number :PL5555  make :Yamaha  model  :cv3  bikeType :CBR  startType :Auto
+ plate number :WP1256  make :Bajaj  model  :Duo  bikeType :Scooty  startType :push
+*******************************************************************************
+
+ plate number :540306  make :Toyata  model  :Ace numberOfAirbags :4  Car Colour  :v
+ plate number :KD4545  make :Jaguar  model  :j2 numberOfAirbags :9  Car Colour  :oil
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :KR8501  make :KIA  model  : numberOfAirbags :6  Car Colour  :Oil
+ plate number :MN1245  make :Nissan  model  :skyLine numberOfAirbags :2  Car Colour  :cz100
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyata  model  :Ace numberOfAirbags :4  Car Colour  :v
+ plate number :KD4545  make :Jaguar  model  :j2 numberOfAirbags :9  Car Colour  :oil
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :skyLine numberOfAirbags :2  Car Colour  :cz100
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyata  model  :Ace numberOfAirbags :4  Car Colour  :v
+ plate number :KD4545  make :Jaguar  model  :j2 numberOfAirbags :9  Car Colour  :oil
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyata  model  :Ace numberOfAirbags :4  Car Colour  :v
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyata  model  :Ace numberOfAirbags :4  Car Colour  :v
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :FG4789  make :Toyata  model  :Aqua numberOfAirbags :4  Car Colour  :white
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :BH6767  make :Benz  model  :CLA numberOfAirbags :4  Car Colour  :purple
+ plate number :FG4789  make :Toyata  model  :Aqua numberOfAirbags :4  Car Colour  :white
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :BH6767  make :Benz  model  :CLA numberOfAirbags :4  Car Colour  :purple
+ plate number :FG4789  make :Toyata  model  :Aqua numberOfAirbags :4  Car Colour  :white
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :BI7777  make :Bajaj  model  :A45  bikeType :Standard  startType :Electric
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :BH6767  make :Benz  model  :CLA numberOfAirbags :4  Car Colour  :purple
+ plate number :FG4789  make :Toyata  model  :Aqua numberOfAirbags :4  Car Colour  :white
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :AB1111  make :Hero  model  :Pept  bikeType :Scooty  startType :Electric
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :BI7777  make :Bajaj  model  :A45  bikeType :Standard  startType :Electric
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :BH6767  make :Benz  model  :CLA numberOfAirbags :4  Car Colour  :purple
+ plate number :FG4789  make :Toyata  model  :Aqua numberOfAirbags :4  Car Colour  :white
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :AB1111  make :Hero  model  :Pept  bikeType :Scooty  startType :Electric
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :BI7777  make :Bajaj  model  :A45  bikeType :Standard  startType :Electric
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+ plate number :TR7000  make :Honda  model  :CBR  bikeType :Sport  startType :ELetric
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :BH6767  make :Benz  model  :CLA numberOfAirbags :4  Car Colour  :purple
+ plate number :FG4789  make :Toyata  model  :Aqua numberOfAirbags :4  Car Colour  :white
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :AB1111  make :Hero  model  :Pept  bikeType :Scooty  startType :Electric
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :BI7777  make :Bajaj  model  :A45  bikeType :Standard  startType :Electric
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :KK4325  make :TVS  model  :Apache  bikeType :Standard  startType :Kick
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+ plate number :TR7000  make :Honda  model  :CBR  bikeType :Sport  startType :ELetric
+*******************************************************************************
+
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :BH6767  make :Benz  model  :CLA numberOfAirbags :4  Car Colour  :purple
+ plate number :DA1256  make :Peugeot  model  :P45 numberOfAirbags :4  Car Colour  :Maroon
+ plate number :FG4789  make :Toyata  model  :Aqua numberOfAirbags :4  Car Colour  :white
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :AB1111  make :Hero  model  :Pept  bikeType :Scooty  startType :Electric
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :BI7777  make :Bajaj  model  :A45  bikeType :Standard  startType :Electric
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :KK4325  make :TVS  model  :Apache  bikeType :Standard  startType :Kick
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+ plate number :TR7000  make :Honda  model  :CBR  bikeType :Sport  startType :ELetric
+*******************************************************************************
+
+ plate number :23-4578  make :Hero  model  :yes numberOfAirbags :3  Car Colour  :2
+ plate number :540306  make :Toyota  model  :TownAce numberOfAirbags :2  Car Colour  :Green
+ plate number :BH6767  make :Benz  model  :CLA numberOfAirbags :4  Car Colour  :purple
+ plate number :DA1256  make :Peugeot  model  :P45 numberOfAirbags :4  Car Colour  :Maroon
+ plate number :FG4789  make :Toyata  model  :Aqua numberOfAirbags :4  Car Colour  :white
+ plate number :KD4545  make :Jaguar  model  :J5 numberOfAirbags :6  Car Colour  :Black
+ plate number :KR8000  make :Kia  model  :Sorento numberOfAirbags :6  Car Colour  :WineRed
+ plate number :MN1245  make :Nissan  model  :SkyLine numberOfAirbags :4  Car Colour  :Brown
+ plate number :PO6767  make :Mzda  model  :RX8 numberOfAirbags :4  Car Colour  :Blue
+ plate number :QR2323  make :Ferrari  model  :F23 numberOfAirbags :4  Car Colour  :Yellow
+ plate number :VR4564  make :BMW  model  :I7 numberOfAirbags :9  Car Colour  :Hybride
+
+ plate number :AAA1212  make :BAjaj  model  :bn  bikeType :CBR  startType :Auto
+ plate number :AB1111  make :Hero  model  :Pept  bikeType :Scooty  startType :Electric
+ plate number :BB1111  make :TVS  model  :c2100  bikeType :Normal  startType :kick
+ plate number :BI7777  make :Bajaj  model  :A45  bikeType :Standard  startType :Electric
+ plate number :IO5656  make :YAMAHA  model  :fz  bikeType :cbr  startType :auto
+ plate number :KK4325  make :TVS  model  :Apache  bikeType :Standard  startType :Kick
+ plate number :lk6767  make :Bajaj  model  :hj  bikeType :cz  startType :auto
+ plate number :TR7000  make :Honda  model  :CBR  bikeType :Sport  startType :ELetric
